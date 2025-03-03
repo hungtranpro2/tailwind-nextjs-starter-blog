@@ -11,6 +11,13 @@
 
 This is a [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/) blogging starter template. Version 2 is based on Next App directory with [React Server Component](https://nextjs.org/docs/getting-started/react-essentials#server-components) and uses [Contentlayer](https://www.contentlayer.dev/) to manage markdown content.
 
+**Bản tùy chỉnh này bổ sung hai tính năng sử dụng Notion làm CMS cho blog!**
+
+1. **Notion Blog trực tiếp** - Truy xuất dữ liệu trực tiếp từ Notion API
+2. **Notion với ContentLayer** - Tích hợp Notion làm nguồn dữ liệu cho ContentLayer, kết hợp sức mạnh của cả hai công nghệ
+
+Bạn có thể dễ dàng quản lý nội dung blog trực tiếp từ Notion và hiển thị trên trang web với nhiều tùy chọn triển khai.
+
 Probably the most feature-rich Next.js markdown blogging template out there. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
 
 Check out the documentation below to get started.
